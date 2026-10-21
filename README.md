@@ -1,6 +1,6 @@
 **DSA-Brushup-MACS**
 
-A comprehensive C++ repository designed for brushing up on Abstract Data Structures and profiling core Algorithms. Built as a hands-on refresher for midterms and algorithmic problem-solving.
+A comprehensive C++ repository designed for brushing up on Abstract Data Structures and profiling core Algorithms. Built as a hands-on refresher for midterms and algorithmic problem-solving. 
 
 **Objective:**
 To implement, test, and benchmark standard Data Structures (via C++ STL) alongside fundamental sorting, searching, and graph algorithms. This project includes a central benchmarking tool (`main.cpp`) to verify theoretical time complexities (such as Master's Theorem) by tracking real-world execution time and iteration counts across various input sizes.
@@ -76,3 +76,4 @@ Dijkstra's: Found the shortest path in 7 steps, verifying the efficiency of usin
 
 **AUTHOR: Vidit Arora**
 
+Done as an Assignment in the DSA group of MACS.
